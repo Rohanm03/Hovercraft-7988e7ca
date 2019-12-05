@@ -1,0 +1,7 @@
+.foo {
+  cursor: pointer;
+
+ @media (hover: hover) {
+  a:hover {
+    background: yellow;
+}
